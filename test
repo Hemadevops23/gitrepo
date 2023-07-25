@@ -1,2 +1,7 @@
 firt line
 Second line
+<<<<<<< HEAD
+=======
+Third line
+forth line
+>>>>>>> 635a411 (forth commit)
